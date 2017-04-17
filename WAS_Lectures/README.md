@@ -15,6 +15,7 @@
 |WAS8_먼저 해보는 IBM WAS|IBM WAS 8.0 의 새로운 기능 소개 강좌|전체 8강|
 |WAS85_제대로 맛보는 IBM WAS|IBM WAS 8.5 에 새롭게 추가된 Liberty 나 WVE 가 포함된 강좌|전체 15강|
 |WAS855_하나씩 이해하는 IBM WAS|IBM WAS 8.5.5 의 추가 기능 및 Liberty 와 WXS 가 포함된 강좌|전체 14강|
-|WASLiberty_전자 정부 프레임워크(Spring) 개발 가이드|IBM WAS Liberty 와 Spring 연동에 대해서 살펴볼 수 있는 가이드|JAX-RS, JAX-WS, JPA 설명|
+|WASLiberty_전자 정부 프레임워크(Spring) 개발 가이드|IBM WAS Liberty 와 Spring 연동에 대해서 살펴볼 수 있는 가이드|설치부터 eclipse/Spring 구성 JAX-RS, JAX-WS, JPA 개발 설명|
+
 
 
