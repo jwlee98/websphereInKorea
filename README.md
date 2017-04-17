@@ -15,11 +15,5 @@
 |폴더명|제공내용|기타|
 |:---:|:---:|:---:|
 |WAS_Lectures|IBM WAS/WAS Liberty 관련 강좌|한글 강좌|
-|Servlet|샘플 Servlet 애플리케이션||
-|JSP_EL|샘플 JSP/EL 애플리케이션||
-|EJB|샘플 EJB 3.1 애플리케이션||
-|JMS|샘플 JMS/MDB 애플리케이션||
-|JAXRS|샘플 JAX-RS 애플리케이션||
-|JAXWS|샘플 JAXWS 애플리케이션||
-
+|SampleApplications|샘플 애플리케이션||
 
