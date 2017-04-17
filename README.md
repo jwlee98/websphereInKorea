@@ -15,5 +15,5 @@
 |폴더명|제공내용|기타|
 |:---:|:---:|:---:|
 |WAS_Lectures|IBM WAS/WAS Liberty 관련 강좌|한글 강좌|
-|SampleApplications|샘플 애플리케이션||
+|SampleApplications|샘플 애플리케이션|WAR, EAR 포멧|
 
